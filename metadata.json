@@ -1,0 +1,6 @@
+{
+  "name": "Déjà-Vu / Three-gen Analyser",
+  "description": "Mathematical visualizer for 3-gen cluster analysis in Dead by Daylight. Identifies strategic points based on Killer or Survivor objectives. *Assumes leveled maps, no verticality.*",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
